@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: pitchumani/ghactions-ch3-challenge-part01-py-app/.github/workflows/python-app.yml@main
+    uses: pitchumani/ghactions-ch3-challenge-part1-integration/.github/workflows/python-app.yml@main
     permissions:
       contents: read
       
